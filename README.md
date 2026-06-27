@@ -75,7 +75,7 @@ ecommerce-analytics-dashboard/
 
 1. Clone this repository:
    ```bash
-   git clone [https://github.com/yourusername/ecommerce-analytics-dashboard.git](https://github.com/yourusername/ecommerce-analytics-dashboard.git)
+   git clone [https://github.com/MelloWingg/E-commerce-Business-Health-Dashboard](https://github.com/MelloWingg/E-commerce-Business-Health-Dashboard)
    cd ecommerce-analytics-dashboard
 Install required dependencies:
 
