@@ -64,11 +64,9 @@ ecommerce-analytics-dashboard/
 ├── data/
 │   └── online_retail_clean.csv   # Cleaned transactional dataset
 │
-├── core/
-│   ├── metrics_calculator.py     # Calculations for MAU, AOV, and Cohort Retention
-│   └── rfm_analyzer.py           # Core RFM calculation and scoring model
-│
-├── app.py                        # Streamlit web application interface
+├── metrics_calculator.py     # Calculations for MAU, AOV, and Cohort Retention
+└── rfm_analyzer.py           # Core RFM calculation and scoring model
+└── app.py                        # Streamlit web application interface
 └── README.md                     # Project documentation
 
 
@@ -89,5 +87,5 @@ Run the Streamlit application:
 Bash
 streamlit run app.py
 👤 Author
-Твоє Ім'я
+Danylo Demchuk
 LinkedIn · GitHub
