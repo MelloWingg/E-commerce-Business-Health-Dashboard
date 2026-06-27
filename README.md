@@ -5,7 +5,6 @@ An end-to-end data analytics and business intelligence project that transforms r
 
 ## Dashboard Preview
 
-*(Додай сюди скріншот свого дашборду після завантаження на GitHub або видали цей рядок)*
 ![Dashboard Preview](dashboard_preview.png)
 
 ---
@@ -88,4 +87,4 @@ Bash
 streamlit run app.py
 👤 Author
 Danylo Demchuk
-LinkedIn · GitHub
+[LinkedIn](https://linkedin.com/in/in/danylo-demchuk-da) · [GitHub](https://github.com/MelloWingg) 
