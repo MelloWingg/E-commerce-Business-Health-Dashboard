@@ -87,4 +87,4 @@ Bash
 streamlit run app.py
 👤 Author
 Danylo Demchuk
-[LinkedIn](https://linkedin.com/in/in/danylo-demchuk-da) · [GitHub](https://github.com/MelloWingg) 
+[LinkedIn](https://linkedin.com/in/danylo-demchuk-da) · [GitHub](https://github.com/MelloWingg) 
